@@ -20,7 +20,7 @@ import sign from "../assets/sign.png";
 import quote from "../assets/quote.png";
 import mattkitchen from "../assets/mattkitchen.png";
 
-export default {
+const images = {
   bg,
   chef,
   MK,
@@ -43,3 +43,5 @@ export default {
   quote,
   mattkitchen,
 };
+
+export default images;
