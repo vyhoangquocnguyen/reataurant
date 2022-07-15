@@ -21,7 +21,7 @@ const Footer = () => {
           <p className="p__opensans">+1 123 343 3531</p>
         </div>
         <div className="app__footer-links_logo">
-          <img src={images.gericht} alt="footer logo" />
+          <img src={images.mattkitchen} alt="footer logo" />
           <p className="p__opensans">
             "The best way to find yourself is to lose yourself in the service of
             others.”
@@ -47,7 +47,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="footer__copyright">
-        <p className="p__opensans">{year} Gericht. All Rights Reserved</p>
+        <p className="p__opensans">{year} mattkitchen. All Rights Reserved</p>
       </div>
     </div>
   );

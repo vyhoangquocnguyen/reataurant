@@ -28,7 +28,11 @@ const FindUs = () => (
       </button>
     </div>
     <div className="app__wrapper_img">
-      <img src={images.findus} alt="findus" />
+      <img
+        src={images.findus}
+        style={{ width: "75%", height: "75%" }}
+        alt="findus"
+      />
     </div>
   </div>
 );
